@@ -1,0 +1,1 @@
+call call %~dp0Scripts\deactivate.bat
